@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+.env
+
+# __pycache__
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Arquivos temporários
+*.log
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+
+# Mac / Windows lixo
+.DS_Store
+Thumbs.db
